@@ -20,7 +20,26 @@
 ```
 页面内引入提示框<br>
 ```html
- <iframe src="https://akagicv-1252448470.cos.ap-shanghai.myqcloud.com/add.html"></iframe>
+<div id="kzt" class="tc">
+  <div class="wenzi">
+    <span class="gb">&times;</span>
+    <p>白面鸮检测到非法打开控制台的请求</p>
+  </div> 
+</div>
+
+<div id="ydm" class="tc">
+  <div class="wenzi">
+    <span class="gb">&times;</span>
+    <p>白面鸮检测到非法查看源代码的请求</p>
+  </div>
+</div>
+
+<div id="bc" class="tc">
+  <div class="wenzi">
+    <span class="gb">&times;</span>
+    <p>白面鸮检测到非法保存网页的请求</p>
+  </div>
+</div>
 ```
 结束
 使用方法（大佬版）
