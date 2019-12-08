@@ -21,7 +21,7 @@
 页面内引入提示框<br>
 ```html
  <iframe src="https://akagicv-1252448470.cos.ap-shanghai.myqcloud.com/add.html"></iframe>
-```html
+```
 结束
 使用方法（大佬版）
 ------- 
