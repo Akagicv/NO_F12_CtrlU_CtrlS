@@ -2,7 +2,7 @@
 ====  
 前言
 -------  
-演示地址：https://www.akagicv.com （其实是我的博客） <br>  
+演示地址：https://www.akagicv.com/mrfz/ （魔改的导航页） <br>  
 能防止F12（控制台） Ctrl+U（新建窗口查看源代码） Ctrl+S（保存网页） <br>  
 使用方法（萌新版）
 ------- 
